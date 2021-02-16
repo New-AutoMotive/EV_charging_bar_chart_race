@@ -88,4 +88,3 @@ dependencies:
     - wcwidth==0.2.5
     - webencodings==0.5.1
     - zipp==3.4.0
-prefix: C:\Users\Ben\.conda\envs\chargerbars
